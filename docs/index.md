@@ -45,3 +45,7 @@ You can temporarily disable or enable installed MODs. When you disable a MOD, th
 If the game is installed in a folder that requires administrator privileges, the installation of UE4SS or MODs may fail.  
 In that case, make sure the game is closed, restart the UE4SS Mod Manager with administrator privileges, and try again.
 
+For other issues or if the tool is not working properly, please contact me on the following Nexus Mods page.
+
+https://www.nexusmods.com/trialsofmana/mods/312?tab=posts
+
