@@ -1,4 +1,5 @@
 # UE4SS Mod Manager
+日本語版のマニュアルは[こちら](index-jp.md)を参照してください。
 ## Installation
 ### How To Install (Tool itself)
 Please extract the downloaded ZIP file to any location you prefer.
@@ -22,12 +23,12 @@ After installing UE4SS, you can install a new MOD by clicking the "Install MOD..
 ### Uninstall MODs
 Check the checkbox next to the MOD you want to uninstall, then click the "Delete Selected" button at the bottom of the screen. The MOD will be completely removed.
 
-If you want to use an uninstalled MOD again in the future, you will need to follow the steps described in the "Install New MODs" section to reinstall it.
+If you want to use an uninstalled MOD again, you will need to follow the steps described in the "Install New MODs" section to reinstall it.
 
 ### Uninstall UE4SS
 Click the "Uninstall" button in the UE4SS Status box. A confirmation dialog will appear. Click OK to uninstall UE4SS.
 
-If you want to reinstall UE4SS in the future, follow the steps described in the "How To Install (UE4SS Custom Build)" section.
+If you want to reinstall UE4SS, follow the steps described in the "How To Install (UE4SS Custom Build)" section.
 
 ### Uninstall Tool itself
 Simply delete the entire folder containing the tool's exe file.
