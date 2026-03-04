@@ -1,3 +1,22 @@
+Third-Party Libraries (MIT License)
+===================================
+
+The following libraries are copyright (c) .NET Foundation
+and contributors, and are distributed under the MIT License:
+
+- Microsoft.Bcl.AsyncInterfaces
+- System.Buffers
+- System.IO.Pipelines
+- System.Memory
+- System.Numerics.Vectors
+- System.Runtime.CompilerServices.Unsafe
+- System.Text.Encodings.Web
+- System.Text.Json
+- System.Threading.Tasks.Extensions
+
+These components are part of the .NET ecosystem and are
+licensed to you under the MIT License by the .NET Foundation.
+
 MIT License
 
 Copyright (c) 2026 ys-konishi
