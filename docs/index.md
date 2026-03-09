@@ -42,10 +42,10 @@ You can temporarily disable or enable installed MODs. When you disable a MOD, th
 **To Enable a MOD:** Check the checkbox next to the MOD you want to enable, then click the "Enable Selected" button at the bottom of the screen. Once the MOD's "Status" column shows "Enabled", the MOD is enabled.
 
 ## Trouble Shoot
-If the game is installed in a folder that requires administrator privileges, the installation of UE4SS or MODs may fail.  
+**If the game is installed in a folder that requires administrator privileges,** the installation of UE4SS or MODs may fail.  
 In that case, make sure the game is closed, restart the UE4SS Mod Manager with administrator privileges, and try again.
 
-If the tool is unable to correctly detect the game folder path
+**If the tool is unable to correctly detect the game folder path**
 (i.e., the game is not installed in the path displayed in `Game Folder Path`),
 UE4SS will not be able to install correctly.
 In this case, click the "Browse" button to the right of the text box displaying `Game Folder Path` and
