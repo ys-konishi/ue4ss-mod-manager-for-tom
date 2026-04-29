@@ -41,6 +41,13 @@ You can temporarily disable or enable installed MODs. When you disable a MOD, th
 
 **To Enable a MOD:** Check the checkbox next to the MOD you want to enable, then click the "Enable Selected" button at the bottom of the screen. Once the MOD's "Status" column shows "Enabled", the MOD is enabled.
 
+### Open MOD's Config(ini) folder
+You can open the MOD config folder (the folder containing the ini file) from the tool.
+
+**Open from Button:** Check the checkbox next to the MOD you want to open the config folder, then click the "Open Config" button at the bottom of the screen. The folder containing the ini file will open in Explorer.
+
+**Open from Context Menu:** Select the MOD whose config folder you want to open, highlight it, and then right-click to open the context menu and select "Open Config". The folder containing the ini file will open in Explorer.
+
 ## Trouble Shoot
 **If the game is installed in a folder that requires administrator privileges,** the installation of UE4SS or MODs may fail.  
 In that case, make sure the game is closed, restart the UE4SS Mod Manager with administrator privileges, and try again.
