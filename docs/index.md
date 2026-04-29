@@ -15,7 +15,7 @@ Click the red-framed "Install UE4SS..." button, then select the ToM-UE4SS-Custom
 If the word "Installed" appears in green text in the "Status" frame, the installation has been successful.
 
 ### Install New MODs
-![UE4SS Mod Manager screen 2](https://staticdelivery.nexusmods.com/mods/3232/images/312/312-1772028843-701758782.png)
+![UE4SS Mod Manager screen 2](https://staticdelivery.nexusmods.com/mods/3232/images/312/312-1777424621-191177992.png)
 
 After installing UE4SS, you can install a new MOD by clicking the "Install MOD..." button at the bottom of the screen and selecting the UE4SS MOD ZIP file from the dialog that appears.
 

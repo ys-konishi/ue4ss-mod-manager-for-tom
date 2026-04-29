@@ -14,7 +14,7 @@
 「Status」欄に「Installed」が緑色で表示されれば、インストール成功です。
 
 ### 新しい MOD のインストール
-![UE4SS Mod Manager screen 2](https://staticdelivery.nexusmods.com/mods/3232/images/312/312-1772028843-701758782.png)
+![UE4SS Mod Manager screen 2](https://staticdelivery.nexusmods.com/mods/3232/images/312/312-1777424621-191177992.png)
 
 UE4SS のインストール後、画面下部の「Install MOD...」ボタンをクリックし、表示されたダイアログから UE4SS 用 MOD の ZIP ファイルを選択することで、新しい MOD をインストールできます。
 
